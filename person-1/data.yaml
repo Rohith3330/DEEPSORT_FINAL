@@ -1,0 +1,6 @@
+names:
+- '0'
+nc: 1
+train: C:\Users\Rohith\deep_sort\output\train\images
+val: C:\Users\Rohith\deep_sort\output\val\images
+test: C:\Users\Rohith\deep_sort\output\test\images
